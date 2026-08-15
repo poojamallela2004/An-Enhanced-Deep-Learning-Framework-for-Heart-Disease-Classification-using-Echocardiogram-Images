@@ -113,3 +113,16 @@ The research paper reports the following test accuracies:
  Proposed Hybrid Model - 93.75% 
 
 The proposed hybrid model achieved an average accuracy of 93.75%.
+
+### Training vs Validation Accuracy
+<img width="973" height="748" alt="image" src="https://github.com/user-attachments/assets/73dbdba9-a494-4dc9-9006-38ee4316a2d2" />
+
+### Confusion Matrix
+
+<img width="891" height="758" alt="image" src="https://github.com/user-attachments/assets/b412bdc2-0001-438f-8d7d-fa4c03d57b5d" />
+
+### Sample Prediction
+
+<img width="706" height="540" alt="image" src="https://github.com/user-attachments/assets/de42cbbd-956c-4fe0-97fc-d2d9d1eafbfa" />
+<img width="752" height="506" alt="image" src="https://github.com/user-attachments/assets/a1110835-e5d1-4152-8710-64f4aaa35c5c" />
+
